@@ -16,6 +16,7 @@ function authenticateGoogleClient()
     $client->setAccessType('offline');
 
     $tokenData = json_decode(file_get_contents('access_token.json'), true);    
+    
     $refreshToken = $tokenData['refresh_token'];
     $accessToken = $client->fetchAccessTokenWithRefreshToken($refreshToken);
 
