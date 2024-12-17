@@ -1,0 +1,13 @@
+B2B DRIVE ID CLIENT: 497772778153-tb1ab3k40imqsuj6uh0e597crpjaob3d.apps.googleusercontent.com
+SECRET KEY: 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
+
+
+
+{
+    "access_token":"ya29.a0AeDClZBx-a2mvJdrFiVy_WDcW4pb3dn94aYjRYVX1iGwos96GUMRRDwZHpYbWocHg40zGRudFpYVn-AzJyxSGYB794Y72yIVgVRlCKBmjiMsi1T3IkXj3Vnb6_c0Xk4FMij2h1yl5s7eQHICr_ecKAi2jcdy0rkt0uRAiluZaCgYKAV8SARISFQHGX2MiIbXMgZiBsSmUBK4gxvmrVg0175",
+    "expires_in":3599,
+    "scope":"https:\/\/www.googleapis.com\/auth\/drive",
+    "token_type":"Bearer",
+    "created":1731002555,
+    "refresh_token":"1\/\/04beeXoyLrb5YCgYIARAAGAQSNgF-L9Irow6y36OvwiwbaHbPNJTuba6JK_Fh-J13INAAWuC7gtn7t_30Eu-fDcyIptayRUMlPA"
+}
